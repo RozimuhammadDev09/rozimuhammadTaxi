@@ -95,6 +95,7 @@ KEYWORDS_BASE_ODAM_BOR = [
     "buvaydaga odam bor", "buvaydadan odam bor", "fargonaga 2 kishi", "toshkentdan pustoy mashina kerak",
     "toshdan 2 kishimiz", "rishtonga 3 ta odam bor", "ayollari bor mashina kerak",
     "ayol kishisi bor mashina bormi", "oldi bo'sh mashina kerak", "orqa salonga odam bor",
+    "hozirga yurib turgan mashina kerak", "hozirga yuradigan moshina bormi",
 ]
 
 # --- MASHINA / MOSHINA KERAK ---
