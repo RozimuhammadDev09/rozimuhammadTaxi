@@ -89,7 +89,12 @@ KEYWORDS_BASE_ODAM_BOR = [
     'фарғонага одам бор', 'фарғонадан 1киши', 'чирчиқдан 1 киши', 'чирчиқдан 1киши',
     'эртагага қўқонга 1киши', 'янгийўлдан 1 киши', 'янгиқўрғондан 1киши', 'ўзимиздан 1киши',
     'ғазалкентдан 1киши', 'ғазалкентдан 2 киши', 'қибрайдан 1 киши', 'қиз бола бор',
-    'қўқонга 1киши', 'қўқонга одам бор', 'қўқондан одам бор',
+    'қўқонга 1киши', 'қўқонга одам бор', 'қўқондан одам бор', "Bitta odam Bor",
+    "rishtonda bitaa odam", "Rishton dan Toshga 1ta odam bor", "pochta bor ekan", "pochta borekan",
+    "pochta borakan", "bochta bor edi", "oldi mestaga odam bor", "bogdodga odam bor",
+    "buvaydaga odam bor", "buvaydadan odam bor", "fargonaga 2 kishi", "toshkentdan pustoy mashina kerak",
+    "toshdan 2 kishimiz", "rishtonga 3 ta odam bor", "ayollari bor mashina kerak",
+    "ayol kishisi bor mashina bormi", "oldi bo'sh mashina kerak", "orqa salonga odam bor",
 ]
 
 # --- MASHINA / MOSHINA KERAK ---
@@ -202,6 +207,7 @@ KEYWORDS_TRANSLIT_BOSHQA = [
     'тошкентдан 1 киwи беринг деганга', 'тошкентдан 2 киwи беринг деганга',
     'тошкентдан 3 киwи беринг деганга', 'тошкентдан 4 киwи беринг деганга', 'фаргонага ким юрябди',
     'юк бор', 'юредиганла борми', 'юредиганлар боми', 'юредиганлар борми',
+    "пучта бор",
 ]
 
 KEYWORDS_TRANSLIT = (
