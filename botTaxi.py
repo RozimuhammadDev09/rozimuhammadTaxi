@@ -30,7 +30,8 @@ SKIP_CHAT_IDS = [
 # Topilgan e'lonlar shu guruh(lar)ga yuboriladi.
 TARGET_CHAT_IDS = [
     -1003398571650,
-    -1002963614686
+    -1002963614686,
+    -1004396950724
 ]
 
 # =================== KALIT SO'ZLAR (LOTIN + KIRILL) ===================
